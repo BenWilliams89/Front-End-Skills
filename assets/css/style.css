@@ -89,6 +89,28 @@ img {
     width: 60%;
     margin-bottom: 25px;
 }
+
+/* Video */
+
+.video {
+    padding: 10px 0 40px;
+}
+
+.video-heading {
+    display: flex;
+    text-align: center;
+}
+
+.video-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.video-preview {
+    margin-bottom: 20px;
+}
+
 /* Utility classes */
 
 .container {
@@ -167,4 +189,21 @@ img {
 
 .txt-center {
     text-align: center;
+}
+
+/* background */
+
+.bg-dark {
+    background-color: var(--dark-color);
+    color: #fff;
+}
+
+.bg-light {
+    background-color: #4891ff;
+    color: #fff;
+}
+
+.bg-black {
+    background: #000;
+    color: #fff;
 }
