@@ -36,7 +36,7 @@ img {
 /* navbar */
 
 .navbar {
-    background: #af64bf;
+    background: #b9b2bb;
     padding: 20px;
 }
 
@@ -174,6 +174,8 @@ img {
 
 .faq {
     padding: 40px 0;
+    background: #000;
+    color: #fff;
 }
 
 .faq .faq-group {
@@ -232,6 +234,51 @@ img {
     color: #fff;
 }
 
+/* Footer */
+
+.footer {
+    padding: 40px 0;
+    background: #b9b2bb;
+}
+
+.footer h4 {
+    margin-bottom: 10px;
+}
+
+.footer ul li {
+    line-height: 2.5;
+}
+
+.footer ul li a {
+    color: #565252;
+}
+
+.footer i {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    
+    
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-card {
+    margin: 20px 30px 30px 0;
+}
+
+.footer input[type='email'] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px 0;
+}
 
 /* Utility classes */
 
