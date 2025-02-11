@@ -76,7 +76,7 @@ img {
 }
 
 .hero .container {
-    background: url(./assets/images/hero-bg.png) no-repeat;
+    background: url(/Front-End-Skills/assets/images/hero-bg.png) no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 550px;
@@ -452,7 +452,7 @@ img {
         display: block;
     }
     .hero .container {
-        background: url(/assets/images/hero-bg-mobile.png) no-repeat;
+        background: url(/Front-End-Skills/assets/images/hero-bg-mobile.png) no-repeat;
         background-size: 350px;
         background-position: bottom;
         height: 770px;
