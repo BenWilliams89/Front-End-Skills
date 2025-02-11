@@ -15,5 +15,8 @@
 
 
 LightHouse Testing:
+    - Desktop Results:
 ![Desktop website speed results from google lighthouse](/assets/images/Desktop.png)
+
+    - Mobile Results:
 ![Mobile website speed results from google lighthouse](/assets/images/mobile.png)
