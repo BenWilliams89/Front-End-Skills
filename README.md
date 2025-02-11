@@ -4,8 +4,7 @@
 - The buttons are for show due to the project being just being about design skills
 
 - Am I Resposnive:
-![am I responsive](/Front-End-Skills/assets/images/Am%20I%20responsive%20-%20FES.png)
-
+![am I responsive](./assets/images/Am%20I%20responsive%20-%20FES.png)
 - Languages used:
     - HTML - Create the sections of the website
     - CSS - Style each section
