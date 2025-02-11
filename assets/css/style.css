@@ -111,6 +111,29 @@ img {
     margin-bottom: 20px;
 }
 
+/* Testimonials */
+
+.testimonials {
+    padding: 40px 0;
+}
+
+.testimonials .testimonials-heading {
+    
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+.testimonials .card p:nth-child(2) {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
 /* Utility classes */
 
 .container {
@@ -206,4 +229,14 @@ img {
 .bg-black {
     background: #000;
     color: #fff;
+}
+
+
+/* card in testimonial */
+
+.card {
+    background: #fff;
+    color: #000;
+    border-radius: 10px;
+    padding: 20px;
 }
